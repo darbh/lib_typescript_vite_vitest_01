@@ -55,6 +55,7 @@ nvm use v23.10.0
 # Installing pnpm 
 ```bash
 wget -qO- https://get.pnpm.io/install.sh | env PNPM_HOME=/opt/pnpm bash -
+```
 
 # Installing typescript globaly 
 ```bash 
